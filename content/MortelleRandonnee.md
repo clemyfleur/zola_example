@@ -15,7 +15,7 @@ toc = true
 ![logo sibl](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
 _________________________________________________
 |:Pintade:	|:Pinçon:	|:Mouette:	|
-|_______	|_____		|_____|
+|_______________|_______________|_______________|
 |#salopette[^1]	|		|		|
 |##cornemuse	|		|		|
 _________________________________________________
