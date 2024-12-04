@@ -297,7 +297,15 @@
         <link rel="alternate" type="text/html" href="https://clemyfleur.github.io/zola_example/mortellerandonnee/"/>
         <id>https://clemyfleur.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://clemyfleur.github.io/zola_example/mortellerandonnee/">&lt;p&gt;tata&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://clemyfleur.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;logo sibl&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;|:Pintade:	|:Pinçon:	|:Mouette:	|
+|_______	|_____		|_____|
+|#salopette[^1]	|		|		|
+|##cornemuse	|		|		|&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Pour découvrir plus de surprise rendez-vous sur &lt;a href=&quot;&#x2F;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot;&gt;&lt;em&gt;Biodiversity PMC »: « Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;[^1] discover la salamandre&lt;&#x2F;p&gt;
 </content>
         
     </entry>
